@@ -1,1 +1,1 @@
-StarActManagement.github.oi
+StarActManagement.github.io
